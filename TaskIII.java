@@ -10,7 +10,6 @@ public class TaskIII {
     int max = 0;
     int min = 0;
     int count = 0;
-    int result = 0;
 
     public void MaxMin () {
         myArray.add(8);
