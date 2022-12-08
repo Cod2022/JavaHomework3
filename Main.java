@@ -3,6 +3,8 @@ public class Main {
         TaskIII taskIII = new TaskIII();
         taskIII.MaxMin();
 
+        System.out.println();
+        
         TaskII taskII = new TaskII();
         taskII.delEven();
     }

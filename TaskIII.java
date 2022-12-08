@@ -18,6 +18,7 @@ public class TaskIII {
         myArray.add(49);
         myArray.add(7);
         myArray.add(55);
+        myArray.add(6);
 
         for (int i = 0; i < myArray.size(); i++) {
             if (max < myArray.get(i)) {
